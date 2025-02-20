@@ -24,13 +24,13 @@ console.log(`-─     ☁️     ネ   audio/video: ${gi.data.format}`
 
 ```json
 {
-  creator: '@Samush$_',
-  data: {
-    title: 'Young Cister - miau (Video Oficial)',
-    size: '3.1 MB',
-    thumbnail: 'https://img.youtube.com/vi/A3WAPhe5JV8/hqdefault.jpg',
-    id: 'A3WAPhe5JV8',
-    format: <Buffer 49 44 33 03 00 00 00 01 59 39 54 49 54 32 00 00 00 49 00 00 01 ff fe 59 00 6f 00 75 00 6e 00 67 00 20 00 43 00 69 00 73 00 74 00 65 00 72 00 20 00 2d ... 3218492 more bytes>
+  "creator": "@Samush$_",
+  "data": {
+    "title": "Young Cister - miau (Video Oficial)",
+    "size": "3.1 MB",
+    "thumbnail": "https://img.youtube.com/vi/A3WAPhe5JV8/hqdefault.jpg",
+    "id": "A3WAPhe5JV8",
+    "format": "<Buffer 49 44 33 03 00 00 00 01 59 39 54 49 54 32 00 00 00 49 00 00 01 ff fe 59 00 6f 00 75 00 6e 00 67 00 20 00 43 00 69 00 73 00 74 00 65 00 72 00 20 00 2d ... 3218492 more bytes>"
   }
 }
 ```
