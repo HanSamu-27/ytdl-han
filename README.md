@@ -8,16 +8,18 @@ npm install github:HanSamu-27/ytdl-han
 
 ```nodejs
 //塞缪尔和吉娜
-const ytdl_han = require("@ytdl/han")
+const ytdl_han = require("@ytdl/han"); //use the ; don't remove it
 
 (async () => {
-var gi = await ytdl_han("https://youtu.be/cCmfIDhGokM?si=NSZesdBc2jaPOWxP", "128kbps") //quality options - 1080p, 360p, 720p || 128kbps(audios)
-console.log(`-─     ☁️     ネ   Title: ${gi.data.title}`)
-console.log(`-─     ☁️     ネ   Size: ${gi.data.size}`)
-console.log(`-─     ☁️     ネ   thumbnail: ${gi.data.size}`)
-console.log(`-─     ☁️     ネ   Id: ${gi.data.id}`)
-console.log(`-─     ☁️     ネ   audio/video: ${gi.data.format}`) //If it is video, just use fs and convert it to Mp4 format and if it is audio, 128kbps to Mp3
+  var gi = await ytdl_han("https://youtu.be/cCmfIDhGokM?si=NSZesdBc2jaPOWxP", "128kbps") //quality options - 1080p, 360p, 720p || 128kbps(audios)
+  console.log(`-─     ☁️     ネ   Title: ${gi.data.title}`)
+  console.log(`-─     ☁️     ネ   Size: ${gi.data.size}`)
+  console.log(`-─     ☁️     ネ   thumbnail: ${gi.data.size}`)
+  console.log(`-─     ☁️     ネ   Id: ${gi.data.id}`)
+  console.log(`-─     ☁️     ネ   audio/video: ${gi.data.format}`) //If it is video, just use fs and convert it to Mp4 format and if it is audio, 128kbps to Mp3
 })()
+
+
 ```
 
 # Result
