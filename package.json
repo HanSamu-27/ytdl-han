@@ -1,6 +1,6 @@
 {
   "name": "@ytdl/han",
-  "version": "1.0.0",
+  "version": "1.5.3",
   "description": "download videos and audios for youtube",
   "main": "ytdl.js",
   "scripts": {
