@@ -4,7 +4,7 @@
 npm install github:HanSamu-27/@ytdl/han
 ```
 
-## Uso
+## Use
 
 ```nodejs
 //塞缪尔和吉娜
@@ -20,7 +20,7 @@ console.log(`-─     ☁️     ネ   audio/video: ${gi.data.format}`
 })()
 ```
 
-# Results Response
+# Result
 
 ```json
 {
