@@ -1,7 +1,7 @@
 # @ytdl/han they have done it with nodejs 
 
 ```bash
-npm install github:HanSamu-27/@ytdl/han
+npm install github:HanSamu-27/ytdl-han
 ```
 
 ## Use
