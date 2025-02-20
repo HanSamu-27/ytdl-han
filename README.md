@@ -8,7 +8,7 @@ npm install github:HanSamu-27/ytdl-han
 
 ```nodejs
 //塞缪尔和吉娜
-const ytdl_han = require("@ytdl/han")
+const ytdl_han = require("@ytdl-han")
 
 (async () => {
   var gi = await ytdl_han("https://youtu.be/A3WAPhe5JV8?si=85uj_sPkNWcOdUoL", "128kbps") //quality options - 1080p, 360p, 720p || 128kbps(audios)
