@@ -22,4 +22,4 @@ console.log(`-─     ☁️     ネ   audio/video: ${gi.data.format}`
 
 # Creator
 
-[![Owner](![Youtube](https://telegra.ph/file/d374b0dfd9d9d159c0f56.jpg))](https://wa.me/+5219983369376?text=Hola+Han+:3)
+[![Owner](![Youtube]([https://telegra.ph/file/d374b0dfd9d9d159c0f56.jpg](https://files.catbox.moe/tfjrsx.jpg))](https://wa.me/+5219983369376?text=Hola+Han+:3)
