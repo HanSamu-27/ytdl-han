@@ -2,7 +2,7 @@
   "name": "@ytdl/han",
   "version": "1.0.0",
   "description": "download videos and audios for youtube",
-  "main": "indexr.js",
+  "main": "ytdl.js",
   "scripts": {
     "start": "node ."
   },
