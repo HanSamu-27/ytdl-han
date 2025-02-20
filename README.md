@@ -8,10 +8,10 @@ npm install github:HanSamu-27/ytdl-han
 
 ```nodejs
 //塞缪尔和吉娜
-const ytdl_han = require("@ytdl/han"); //use the ; don't remove it
+const ytdl_han = require("@ytdl/han")
 
 (async () => {
-  var gi = await ytdl_han("https://youtu.be/cCmfIDhGokM?si=NSZesdBc2jaPOWxP", "128kbps") //quality options - 1080p, 360p, 720p || 128kbps(audios)
+  var gi = await ytdl_han("https://youtu.be/A3WAPhe5JV8?si=85uj_sPkNWcOdUoL", "128kbps") //quality options - 1080p, 360p, 720p || 128kbps(audios)
   console.log(`-─     ☁️     ネ   Title: ${gi.data.title}`)
   console.log(`-─     ☁️     ネ   Size: ${gi.data.size}`)
   console.log(`-─     ☁️     ネ   thumbnail: ${gi.data.size}`)
